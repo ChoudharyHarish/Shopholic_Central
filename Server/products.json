@@ -1,0 +1,362 @@
+[
+  {
+    "name": "Travel Backpack with Adjustable Straps",
+    "price": 1106,
+    "category": "Accessories",
+    "subCategory": "Bags",
+    "company": "Sky Bags",
+    "inventory": 12,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220524/6MEy/628c3c9bf997dd03e21aab3a/-473Wx593H-469200737-blue-MODEL3.jpg"
+  },
+  {
+    "category": "Accessories",
+    "name": "Medium 22 L Backpack VOXEL 22L BACKPACK GREEN",
+    "subCategory": "Bags",
+    "company": "American Tourister",
+    "inventory": 20,
+    "price": 1200,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/g/c/g/-original-imagkuxz4wtvkgh9.jpeg?q=70"
+  },
+  {
+    "category": "Accessories",
+    "name": "Graphic Print Backpack with Adjustable Strap",
+    "subCategory": "Bags",
+    "company": "Sky Bags",
+    "inventory": 12,
+    "price": 1643,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/he2/hdf/15153276944414/-473Wx593H-460327879-camouflage-MODEL.jpg"
+  },
+  {
+    "category": "men",
+    "name": "Checked Slim Fit Shirt with Patch Pocket",
+    "company": "US Polo",
+    "inventory": 12,
+    "price": 859,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220629/sFkx/62bc0339aeb26921af4f49b4/-473Wx593H-469234311-green-MODEL.jpg"
+  },
+
+  {
+    "category": "Accessories",
+    "name": "32.5 L Backpack Fizz Sch Bag",
+    "subCategory": "Bags",
+    "price":1179,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20210407/nagb/606d6313aeb269a9e38635d9/-473Wx593H-460827056-black-MODEL.jpg",
+    "company": "American Tourister",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "name": "Large 40 L Laptop Backpack ASHPER Unisex Backpack with USB Port and Rain Cover",
+    "subCategory": "Bags",
+    "price": 801,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20201028/JFps/5f987625f997dd8c837a220a/-473Wx593H-460754546-grey-MODEL.jpg",
+    "company": "Sky Bags",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "name": "Medium 22 L Backpack VOXEL 22L BACKPACK",
+    "subCategory": "Bags",
+    "price": 849,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/backpack/o/4/t/-original-imaghduy2ve8pvb2.jpeg?q=70",
+    "company": "Sky Bags",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "name": "Medium 26 L Backpack Jacquard Camo",
+    "subCategory": "Bags",
+    "price": 895,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://rukminim2.flixcart.com/image/832/832/xif0q/backpack/z/o/s/-original-imagh3wdyn6kj7dy.jpeg?q=70",
+    "company": "Wrogn",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "subCategory": "Watch",
+    "name": "RHETT Analog Watch",
+    "price": 4168,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220528/4Ugq/6291392aaeb26921afed98a1/-473Wx593H-469178345-black-MODEL.jpg",
+    "company": "Fossil",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "subCategory": "Watch",
+    "name": "Analog Watch For Men", 
+    "price":1297,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://rukminim2.flixcart.com/image/832/832/kg8avm80-0/watch/t/i/u/pe000017d-peter-england-original-imafwgb7w9cbyumh.jpeg?q=70",
+    "company": "Peter England",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "subCategory": "Watch",
+    "name": "FS4656 Water-Resistant Machine Multifunction Watch",
+    "price": 420,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230421/ZRLx/64428bc9711cf97ba73dea5f/-473Wx593H-4915036850-multi-MODEL.jpg",
+    "company": "Fossil",
+    "inventory": 12
+  },
+  { 
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230419/oSv0/64401bbf711cf97ba736db9a/-473Wx593H-4933815550-multi-MODEL.jpg",
+    "category": "Accessories",
+    "subCategory": "Watch",
+    "name": "Titan SPOR Analog Watch ",
+    "price": 5599,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "company": "Fossil",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230418/nRpd/643ebefb711cf97ba730a817/-473Wx593H-4933826070-multi-MODEL.jpg",
+    "category": "Accessories",
+    "subCategory": "Watch",
+    "name": "Minimalists Analog Watch",
+    "price": 850,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+
+    "company": "Fastrack",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230613/8LPq/64879c8342f9e729d73cb484/-473Wx593H-466266935-grey-MODEL.jpg",
+    "category": "Shoes",
+    "name": "Low-Top Lace-Up Sneakers",
+    "price": 2025,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "company": "Puma",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230530/o0Q2/6475ecdd42f9e729d7fd64ef/-473Wx593H-469506429-brown-MODEL5.jpg",
+    "category": "Shoes",
+    "name": "Men Low-Top Lace-Up Sneakers",
+    "price": 1200,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+
+    "company": "Adidas",
+    "inventory": 12
+  },
+  {
+    "category": "Shoes",
+    "name": "Court 70 Mix Sneakers",
+    "price": 4859,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230330/s9sQ/6425b6d0907deb497abdb21e/-473Wx593H-469437972-black-MODEL3.jpg",
+    "company": "Puma",
+    "inventory": 12
+  },
+  {
+    "category": "Shoes",
+    "name": "Court Vision Lo Nn Lace-Up Sneakers",
+    "price": 3896,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220520/BguV/6286db11f997dd03e2f7c25b/-473Wx593H-460941935-black-MODEL2.jpg",
+    "company": "Nike",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "name": "Men Formal Genuine Leather Reversible Belt",
+    "price": 249,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20221026/hfmf/6359653faeb269659c5bb4df/-473Wx593H-410326649-77520-MODEL.jpg",
+
+    "company": "US Polo",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230624/vQZT/64969554eebac147fcf80f79/-473Wx593H-465479793-white-MODEL.jpg",
+    "category": "Women",
+    "name": "Floral Print Straight Kurta Suit Set",
+    "price": 920,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "company": "AVAASA SET",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230601/XELq/6478b028d55b7d0c6330d424/-473Wx593H-460453611-white-MODEL2.jpg",
+    "category": "men",
+    "name": "Slim Fit Striped Shirt with Patch Pocket",
+    "price": 610,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "company": "Indian Garage",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230703/rmHa/64a2f895eebac147fc48cc08/-473Wx593H-466326300-navy-MODEL.jpg",
+    "category": "men",
+    "name": "Graphic Print Loose Fit Crew-Neck T-Shirt",
+    "price": 369,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "company": "US Polo",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230628/NjFZ/649b92edeebac147fc193a84/-473Wx593H-465777983-coral-MODEL.jpg",
+    "category": "Women",
+    "name": "Embroidered Straight Kurta Set",
+    "price": 1122,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "company": "AVAASA SET",
+    "inventory": 12
+  },
+  {
+    "img": "https://assets.ajio.com/medias/sys_master/root/20211007/OPpa/615e155ff997ddce8904bfae/-473Wx593H-469009835-blue-MODEL4.jpg",
+    "category": "men",
+    "name": "Washed Slim Fit Jeans",
+    "price": 860,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "company": "Indian Garage",
+    "inventory": 12
+  },
+  {
+    "category": "Women",
+    "name": "Lightly Washed Wide-Leg Jeans",
+    "price": 1199,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230713/L1AS/64b02db5eebac147fc6aac27/-473Wx593H-443013941-mediumblue-MODEL.jpg",
+    "company": "DNMX",
+    "inventory": 12
+  },
+  {
+    "category": "Women",
+    "name": "Barbie Arch Logo Relaxed Fit Hoodie",
+    "price": 3300,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230714/MveT/64b1357da9b42d15c953e0e2/-473Wx593H-442110691-pink-MODEL.jpg",
+    "company": "Gap",
+    "inventory": 12
+  },
+  {
+    "category": "Women",
+    "name": "Floral Print Georgette Fit & Flare Dress",
+    "price": "965",
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230623/Ffc9/6495d1bba9b42d15c9cb261b/-473Wx593H-466302538-blue-MODEL.jpg",
+    "company": "FASHION 2 WEAR",
+    "inventory": 12
+  },
+  {
+    "category": "men",
+    "name": "Camouflage Print Reversible Hooded Jacket",
+    "price": 3250,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20210923/xNh6/614b9e0df997ddce89d8107e/-473Wx593H-463000123-blue-MODEL5.jpg",
+    "company": "WRANGLER",
+    "inventory": 12
+  },
+  {
+    "category": "Women",
+    "name": "Floral Print Fit & Flare Dress",
+    "price": 780,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230514/Xjjs/64604dea42f9e729d7837350/-473Wx593H-466007054-aqua-MODEL4.jpg",
+    "company": "AVAASA SET",
+    "inventory": 12
+  },
+  {
+    "category": "Women",
+    "name": "Striped V-Neck Top",
+    "price": 489,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230624/SQog/6496b822eebac147fcfc30ea/-473Wx593H-465591174-black-MODEL3.jpg",
+    "company": "FASHION 2 WEAR",
+    "inventory": 12
+  },
+  {
+    "category": "men",
+    "name": "Brand Print Hoodie with Split-Kangaroo Pockets",
+    "price": 2800,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230317/J5L3/64140ad5aeb26924e3c99f75/-473Wx593H-442064288-black-MODEL4.jpg",
+    "company": "Gap",
+    "inventory": 12
+  },
+  {
+    "category": "men",
+    "name": "Crew-Neck Sweatshirt with Applique",
+    "price": 2099,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20221208/eVmW/639200adaeb269659cdea28b/-473Wx593H-441539126-green-MODEL.jpg",
+    "company": "Gap",
+    "inventory": 12
+  },
+  {
+    "category": "Women",
+    "name": "Women Zip-Front Crop Hoodie",
+    "price": 1000,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220817/lA2I/62fd1e28f997dd394cff65f0/-473Wx593H-441316095-ltpink-MODEL.jpg",
+    "company": "Wrogn",
+    "inventory": 12
+  },
+  {
+    "category": "Shoes",
+    "name": "Court Vision Lo NN Lace-Up Sneakers",
+    "price": 4745,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20221228/3zmf/63ac1c97f997ddfdbdfe664c/-473Wx593H-469250083-green-MODEL3.jpg",
+    "company": "Nike",
+    "inventory": 12
+  },
+  {
+    "category": "Shoes",
+    "name": "Extent Nitro Concrete Jungle Lace-Up Sneakers",
+    "price": 3276,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230302/0Qyy/6400d01daeb26924e3a246d7/-473Wx593H-469437901-black-MODEL2.jpg",
+    "company": "Puma",
+    "inventory": 12
+  },
+  {
+    "category": "Women",
+    "name": "Floral Print Flared Tunic",
+    "price": 1249,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230624/U9yK/6496a9f5a9b42d15c9e53d28/-473Wx593H-465565927-aqua-MODEL.jpg",
+    "company": "AVAASA SET",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "subCategory": "Watch",
+    "name": "APPLE Watch Series 3",
+    "price": 22900,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20230116/SHyW/63c4f0efaeb269c651e14caa/-473Wx593H-460794014-black-MODEL.jpg",
+    "company": "Apple",
+    "inventory": 12
+  },
+  {
+    "category": "Accessories",
+    "subCategory": "Watch",
+    "name": "Fastrack Hurricane Smartwatch",
+    "price": 1190,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://assets.ajio.com/medias/sys_master/root/20220304/2y8h/62211418f997dd03e200b129/-473Wx593H-4919979320-multi-MODEL.jpg",
+    "company": "Fastrack",
+    "inventory": 12
+  },
+  {
+    "category": "men",
+    "name": "Men Typography Round Neck Cotton Blend Black T-Shirt",
+    "price": 499,
+    "description": "Nulla eget sem vitae eros pharetra viverra. Nam vitae luctus ligula. Mauris consequat ornare feugiat.",
+    "img": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/t/e/0/l-st-theboys-black-smartees-original-imagnqszzzzyuzru.jpeg?q=70",
+    "company": "Peter England",
+    "inventory": 12
+  }
+]

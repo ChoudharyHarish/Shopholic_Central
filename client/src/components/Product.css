@@ -1,0 +1,40 @@
+.special-btn{
+    border: 0.8px solid grey;
+    padding: 0.6rem 1.2rem;
+}
+
+.special-btn:hover{
+    color:black
+}
+
+.products-container{
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(260px,auto));
+    grid-gap: 2rem;
+}
+
+.img-container img{
+    transition: transform 0.5s ease;
+}
+
+.img-container:hover img{
+    transform: scale(1.1);
+}
+
+.img-container:hover {
+    .hide{
+    opacity: 1;
+    transform: translateY(0);
+    };
+}
+
+
+
+.view-more{
+    padding: 1rem;
+    background-color: rgb(222, 222, 222);
+    border-radius: 20px;
+    color: black;
+    margin: auto;
+}

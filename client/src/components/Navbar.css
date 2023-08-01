@@ -1,0 +1,99 @@
+nav.navbar{
+    padding: 18px 24px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    transition: 0.4s all ease-in-out;
+    z-index:99;
+    font-family: 'Poppins', sans-serif;
+}
+
+@media only screen and (min-width:0px) and (max-width:720px) {
+        nav.navbar{
+            padding: 10px 0px !important;
+        }
+}
+
+
+nav.navbar.scrolled{
+    padding: 12px 18px;
+    background-color:#fff;
+}
+
+.navbar-brand{
+    width: 18%;
+}
+
+
+.navbar-link{
+    letter-spacing: 0.8px;
+    padding: 0 16px;
+    font-size: 18px;
+    text-decoration: none;
+    color:  black;
+}
+
+
+nav.navbar .navbar-nav a.nav-link.navbar-link:hover,
+nav.navbar .navbar-nav a.nav-link.navbar-link:active{
+    color:  #6c7ae0 !important;
+}
+
+.active{
+    color:  #6c7ae0 !important;
+}
+
+
+.social-icons{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+nav.navbar .navbar-toggler{
+    border: none;
+}
+
+
+nav.navbar .navbar-toggler:active,
+nav.navbar .navbar-toggler:focus{
+    outline: none;
+    box-shadow: none;
+}
+nav.navbar .navbar-toggler-icon{
+    width: 24px;
+    height: 18px;
+    background-image: none;
+    position: relative;
+    border-bottom: 2px solid #000000;
+    transition: all 300ms linear;
+    top: -2px;
+}
+
+nav.navbar .navbar-toggler-icon:after,
+nav.navbar .navbar-toggler-icon:before{
+    width: 24px;
+    position: absolute;
+    content: '';
+    height:2px;
+    background-color: #000000;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+nav.navbar .navbar-toggler-icon:after{
+    top: 8px;
+}
+
+nav.navbar .navbar-toggler[aria-expanded='true'] .navbar-toggler-icon:after{
+        transform: rotate(45deg);
+}
+
+nav.navbar .navbar-toggler[aria-expanded='true'] .navbar-toggler-icon::before{
+    transform: translate(8px) rotate(-45deg);
+}
+
+nav.navbar .navbar-toggler[aria-expanded='true'] .navbar-toggler-icon{
+        border-color: transparent;
+}
