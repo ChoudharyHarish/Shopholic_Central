@@ -17,8 +17,6 @@ const Home = () => {
     }
   }, [isAuthenticated, dispatch]);
 
-  // console.log(cart);
-
   useEffect(() => {
     const token = localStorage.getItem("profile");
     if (token) {

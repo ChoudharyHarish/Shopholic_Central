@@ -130,8 +130,6 @@ const Product = () => {
   }, [id, decrement, handleCart]);
 
 
-  console.log(product)
-
   return isLoading ? (
     <div>Loding....</div>
   ) : (

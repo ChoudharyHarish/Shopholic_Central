@@ -27,7 +27,7 @@ export default function Auth({setShowModal}) {
   const closeCart = (e) => {
     e.preventDefault();
     const el  = document.querySelector('.user');
-    console.log(el);
+    // console.log(el);
     el.classList.remove('showCart');
     el.classList.add('hidecart');
 }

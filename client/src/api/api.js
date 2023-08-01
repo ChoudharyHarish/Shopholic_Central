@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const url = "http://localhost:5000/api/v1/";
+const url = "https://shopholic-central.vercel.app/api/v1";
 const Api = axios.create({ baseURL: url })   
 
 Api.interceptors.request.use((req) => {

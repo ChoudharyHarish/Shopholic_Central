@@ -116,9 +116,6 @@ const Products = ({ title, category: recievedCategory }) => {
   const [sort, setSort] = useState(query.get("sort") || null);
 
   const url = `${category ? `&category=${category}`:``}${min !== 1e7 && max !== 0 ? `&numericFilters=price>=${min},price<=${max}`:''}${sort !== null && sort !== undefined ? `&sort=${sort}` : ``}`;
-  // console.log(url);
-
-  // const [userQuery, setUserQuery] = useState('');
 
   const [list, setList] = useState([
     {
@@ -143,22 +140,18 @@ const Products = ({ title, category: recievedCategory }) => {
   useEffect(() => {
     if (page) {
       dispatch(setIsLoading(true));
-      // console.log(searchCategory);
       if(searchCategory){
         dispatch(
           filterProducts({ page: page === 1 ? page : page + 1, category:searchCategory,sort,min,max})
         );
       }
       else if (category || sort || min || max){
-        // console.log(page);
         dispatch(
           filterProducts({ page, category,sort,min,max})
         );
-        // console.log('here in inner');
         }
       else{
          dispatch(fetchProducts(page));
-        //  console.log('here in outer');
       }
     }
     if(page !== totalPage && disabled === true) setDisabled(false);
@@ -167,7 +160,6 @@ const Products = ({ title, category: recievedCategory }) => {
 
   const handleQuery = async(queryType) => {
     setCategory(queryType);
-    // dispatch(filterProducts({ page:1, category:queryType }));
     navigate(`/shop/search?page=1&category=${queryType}`);
   };
 
@@ -177,7 +169,6 @@ const Products = ({ title, category: recievedCategory }) => {
         filterProducts({ page, category: searchCategory, min, max, sort })
       );
     } else {
-      // console.log("Hee");
       dispatch(filterProducts({ page: page + 1, category, min, max, sort }));
     }
     navigate(`/shop/search?page=${page+1}${url}`);
