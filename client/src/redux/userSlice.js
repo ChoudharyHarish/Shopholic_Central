@@ -45,7 +45,7 @@ export const createOrder = createAsyncThunk('createOrder', async({cart,subTotal,
 export const getOrders = createAsyncThunk('getOrders', async () => {
     try{
     const { data } = await getUserOrders();
-    console.log(data);
+    // console.log(data);
     return data;
     }
     catch(error){
