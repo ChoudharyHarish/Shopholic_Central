@@ -65,10 +65,10 @@ const Contact = () => {
 
   return (
     <>
-    <div className='py-20'>
+    <div className='py-32 md:py-20'>
       <BackgroundWrapper title = 'Contact'/>
 
-      <div className = 'flex mx-12 lg:mx-28 mt-24 flex-col-reverse md:flex-row' style={{border:'1px solid grey'}}>
+      <div className = 'flex mx-4 lg:mx-28 mt-24 flex-col-reverse md:flex-row' style={{border:'1px solid grey'}}>
         <div className='flex flex-col p-12 flex-1 gap-4' style={{borderRight:"1px solid grey"}}>
           <h3>Send Us a Message</h3>
           <form className='flex flex-col gap-4' onSubmit={handleSubmit}>
