@@ -36,8 +36,8 @@ const makePayment = async(req,res) => {
             }
     }),
         mode: 'payment',
-        success_url: 'http://localhost:3000/success',
-        cancel_url: 'http://localhost:3000/cancel',
+        success_url: 'https://shopholic-central.netlify.app/home/success',
+        cancel_url: 'https://shopholic-central.netlify.app/home/cancel',
       });
 
      return  res.status(202).json({url:session.url});
