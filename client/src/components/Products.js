@@ -249,7 +249,7 @@ const Products = ({ title, category: recievedCategory }) => {
   };
 
   return (
-    <div className="px-12 py-32 lg:py-20 pb-8">
+    <div className="px-4 md:px-12 py-32 lg:py-20 pb-8">
       <h1 className={`${styles.subHeading}`}>{title}</h1>
       <div className="flex flex-wrap items-center justify-between mt-4 p-2 gap-2  relative">
         <div className="flex flex-wrap justify-center items-center ">
@@ -287,7 +287,7 @@ const Products = ({ title, category: recievedCategory }) => {
           
           }
 
-        <div className="filter hidecart">
+        <div className="filter p-8 gap-4 hidecart">
           <div>
             <ListViewer
               {...list[0]}

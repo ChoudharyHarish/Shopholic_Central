@@ -39,7 +39,7 @@ const Categories = () => {
 
 
   return (
-    <div className='px-12 py-20 pb-8'>
+    <div className='md:px-12 px-4 py-20 pb-8'>
            <div className='category-container'>
                 {categories.map((category) => {
                    return <div key={category.title}  className='category-item'>
