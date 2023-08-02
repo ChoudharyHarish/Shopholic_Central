@@ -23,7 +23,7 @@ import {
 
 const ProductCard = ({ img, name, price, _id }) => {
   return (
-    <div className="flex flex-col max-w-sm">
+    <div className="flex flex-col max-w-sm sm:max-w-auto">
       <div className="img-container flex-1 relative overflow-hidden">
         <img className="h-full object-cover" src={img} alt="" />
         <Link
@@ -280,14 +280,14 @@ const Products = ({ title, category: recievedCategory }) => {
         </div>
 
         {showFilter ? <CustomButton icon={<Filter />} text="Filter" func={openFilterMenu} /> :  
-           <button className="hidden special-btn md:flex z-30" onClick={(e) => closeFilterMenu(e)}>
+           <button className="hidden special-btn md:flex z-[120]" onClick={(e) => closeFilterMenu(e)}>
             <div className="mr-2"><CloseOutlined /></div>
             Close
           </button>
           
           }
 
-        <div className="filter p-8 gap-4 hidecart">
+        <div className="filter p-8 gap-4 fixed sm:absolute hidecart">
           <div>
             <ListViewer
               {...list[0]}
@@ -322,7 +322,7 @@ const Products = ({ title, category: recievedCategory }) => {
       </div>
 
       <div className="flex flex-col justify-center gap-y-4 flex-1">
-        <div className="products-container">
+        <div className="products-container ">
           {products?.map((product, i) => {
             return <ProductCard key={product._id} {...product} />;
           })}

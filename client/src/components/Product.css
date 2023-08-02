@@ -12,6 +12,7 @@
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(260px,auto));
     grid-gap: 2rem;
+    place-content: center;
 }
 
 .img-container img{
