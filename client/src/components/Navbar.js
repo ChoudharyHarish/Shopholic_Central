@@ -133,9 +133,9 @@ const Navbarr = () => {
             </Link>
           </Nav>
         </Navbar.Collapse>
-        <div className="navbar-text w-full lg:w-auto relative">
-          <div className="social-icons text-black">
-            <div className="md:mx-3 flex items-center flex-1" style={{border: "1px solid grey",
+        <div className="navbar-text w-full  lg:w-auto relative border-2 ">
+          <div className="social-icons justify-between text-black">
+            <div className="md:mx-3 flex w-3/4 items-center" style={{border: "1px solid grey",
                   borderRadius: "10px",padding: "0.5rem",backgroundColor:'white'}}>
               <input
                 type="text"
