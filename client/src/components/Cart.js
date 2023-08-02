@@ -67,7 +67,7 @@ const Cart = ({title,flag,cart}) => {
             localStorage.setItem('cart', JSON.stringify(cart));
             localStorage.setItem('totalPrice', total);
             const token = localStorage.getItem('profile');
-            const resp = await fetch("http://localhost:5000/api/v1/user/checkout",{
+            const resp = await fetch("https://shopholic-central.vercel.app/api/v1/user/checkout",{
                 method:'POST',
                 headers: {
                     'Content-Type': 'application/json',
