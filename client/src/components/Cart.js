@@ -98,7 +98,7 @@ const Cart = ({title,flag,cart}) => {
                         <h4>{`Total : ₹${total}`}</h4>
                         <div className='flex gap-2 justify-start'>
                             {/* <button className='p-2 bg-black rounded-[10px] text-white'>View Cart</button> */}
-                            <button className='p-2 bg-black rounded-[10px] text-white cursor-pointer' disabled={cart.length<=0}  onClick={() => procedPayment()} >Checkout</button>
+                            <button className='p-2 bg-black rounded-[10px] text-white cursor-pointer' disabled={cart?.length<=0}  onClick={() => procedPayment()} >Checkout</button>
                         </div>
             </div>
 
